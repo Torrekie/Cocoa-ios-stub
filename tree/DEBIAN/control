@@ -1,0 +1,9 @@
+Package: cocoa.framework
+Name: Cocoa.framework
+Version: 23
+Architecture: iphoneos-arm
+Maintainer: Torrekie <me@torrekie.dev>
+Section: Development
+Homepage: https://github.com/Torrekie/Cocoa-ios-stub
+Tag: purpose::library, role::developer
+Description: Cocoa.framework just like how macOS does, but no AppKit. I'm lazy to patch things from Cocoa to Foundation
